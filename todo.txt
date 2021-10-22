@@ -1,5 +1,5 @@
 [*] VWA-01 - express init
-[] VWA-02  - add nodemon
+[*] VWA-02  - add nodemon
 [] VWA-03 - vue init
 [] VWA-04 - search information
 [] VWA-05 - add README.md
