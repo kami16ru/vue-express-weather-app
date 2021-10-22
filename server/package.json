@@ -1,0 +1,15 @@
+{
+  "name": "vue-express-weather-app-server",
+  "version": "0.1.0",
+  "description": "Express server for parsing weather api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Kamil Khismatullin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
