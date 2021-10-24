@@ -1,5 +1,24 @@
+0.1.0
+
 [*] VWA-01 - express init
 [*] VWA-02  - add nodemon
 [*] VWA-03 - vue init
-[] VWA-04 - search information
+[*] VWA-04 - search information
 [*] VWA-05 - add README.md
+[] VWA-6 - Добавить api Яндекс погоды
+[] VWA-7 - tailwind.css init
+[] VWA-8 - Нарисовать контейнеры для карт и виджетов
+[] VWA-9 - Добавить строку поиска
+[] VWA-10 - Добавить яндекс карты
+[] VWA-11 - Реализовать логику приложения
+
+0.2.0
+
+[] VWA-12 - Accu Weather api
+[] VWA-13 - Open Weather api
+
+0.3.0
+
+[] VWA-14 - jest init
+[] VWA-15 - Покрыть тестами фронт
+[] VWA-16 - Покрыть тестами бэк
